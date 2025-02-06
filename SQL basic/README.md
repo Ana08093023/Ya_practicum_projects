@@ -11,7 +11,7 @@
 ## 🏛 Структура базы данных  
 База данных представлена в виде **ER-диаграммы**:  
 
-![ER-диаграмма]((https://i.postimg.cc/mgJC7qK0/1212.png))  
+![ER-диаграмма](https://github.com/Ana08093023/Ya_practicum_projects/blob/Yandex/SQL%20basic/1212.png)
 
 ## 📂 Описание ключевых таблиц  
 
