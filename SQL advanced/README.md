@@ -80,5 +80,5 @@
 
 ## ER-диаграмма
 
-((https://github.com/Ana08093023/Ya_practicum_projects/blob/Yandex/SQL%20advanced/3334.png))
+![ER-диаграмма](https://github.com/Ana08093023/Ya_practicum_projects/blob/Yandex/SQL%20advanced/3334.png)
 
